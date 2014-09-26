@@ -6,9 +6,10 @@ GIT
 
 GIT
   remote: git://github.com/opscode/omnibus.git
-  revision: cf4b18fb94f724956b28592cde0890fe42cf6fbe
+  revision: 8ec8594d38b6d974c521cc6b8dcdcdf6a694e5b4
+  branch: schisamo/windows-path
   specs:
-    omnibus (4.0.0.beta.1)
+    omnibus (4.0.0.rc.1)
       chef-sugar (~> 2.2)
       cleanroom (~> 1.0)
       mixlib-shellout (~> 1.4)
@@ -50,7 +51,7 @@ GEM
     celluloid-io (0.16.0)
       celluloid (>= 0.16.0)
       nio4r (>= 1.0.0)
-    chef-sugar (2.2.0)
+    chef-sugar (2.3.0)
     cleanroom (1.0.0)
     dep-selector-libgecode (1.0.2)
     dep_selector (1.0.3)
@@ -59,7 +60,7 @@ GEM
     erubis (2.7.0)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.3)
+    ffi (1.9.5)
     ffi-yajl (1.1.0)
       ffi (~> 1.5)
       libyajl2 (~> 1.0)
