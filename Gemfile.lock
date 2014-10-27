@@ -6,7 +6,8 @@ GIT
 
 GIT
   remote: git://github.com/opscode/omnibus.git
-  revision: a026dba566da533af0d4b9e48239901cac96a996
+  revision: 6ef818a85733c17e6ed3422af8a2055399f73e9b
+  branch: schisamo/makeself-fixes
   specs:
     omnibus (4.0.0.rc.1)
       chef-sugar (~> 2.2)
