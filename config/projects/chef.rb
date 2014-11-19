@@ -62,6 +62,8 @@ override :'ruby-windows', version: "2.0.0-p451"
 ######
 override :rubygems,       version: "2.4.1"
 
+override :chef,       version: "sersut/basic-audit-tests"
+
 dependency "preparation"
 dependency "chef"
 dependency "shebang-cleanup"
