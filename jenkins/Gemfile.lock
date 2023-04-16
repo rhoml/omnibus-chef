@@ -11,7 +11,7 @@ GEM
     childprocess (0.5.3)
       ffi (~> 1.0, >= 1.0.11)
     clamp (0.6.3)
-    ffi (1.9.3)
+    ffi (1.15.5)
     ffi-yajl (1.0.2)
       ffi (~> 1.5)
       libyajl2 (~> 1.0)
